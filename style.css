@@ -1,0 +1,479 @@
+
+    .button{
+        display: inline-block;
+        padding: 14px 34px;
+        background: orangered;
+        color: yellow;
+        border: 2px solid;
+        font: 16px;
+        text-decoration: none;
+        border-top: 50px;
+        box-shadow: orangered;
+        margin-top: -100px;
+        
+    }
+    .button:hover{
+        color:lime;
+    }
+    .button:active{
+        color:lime;
+    }
+    .social{
+        margin-top:100px;
+        margin-left: 50px;
+        letter-spacing: 1px;
+        
+    }
+    body{
+        background-color:white;
+        color:black;
+        background: url("C:\Users\HP\Downloads\back.jpeg");
+        }
+    span{
+        color: red;
+    }
+    
+    .navbar{
+      
+        border: solid;
+        border-color:black;
+        border-width: 10px;
+        background-color: black;
+        color: white;
+        padding: 20px;
+        
+    }
+    
+    h1,ul,li{
+        display: inline;
+    }
+    ul{
+        margin-left: 40%;
+
+    }
+    li{
+        margin-left:10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px3w;
+        padding: 3px;
+        transition: 0.3s ease;
+        letter-spacing: 1px;
+        box-shadow: orangered;
+        box-shadow: orangered;
+    }
+    
+    h4{
+        margin-left: 30px;
+        color: orangered;
+        padding: 50px;
+        padding-bottom: 30px;
+    }
+
+    h2{
+        margin-left: 100px;
+        padding: 30px;
+        padding-top: 30px;
+        margin-top: 100px;
+        font-size: 40px;
+    }
+    h1{
+        margin-top: 100px;
+        padding: 30px;
+        padding-top: 30px;
+        font-size: large;
+  
+    }
+    .photo{
+       margin-left: 800px;
+       margin-top: -550px;
+       height: 100vh;
+       display: flex;
+       align-items: center;
+       
+       
+      }
+      .photo img{
+        clip-path: circle();
+        
+       }
+      .navbar a{
+        text-decoration: none;
+        text-transform: none;
+        color: orangered;
+      }
+    
+    .body img{
+        background-image: url("C:\Users\HP\Downloads\backround.avif");
+        background-size: cover;
+        height: 100vh;
+        background-position: center;
+       
+    }
+ 
+    p{
+        margin-left: 100px;
+        margin-top: 10px;
+        padding-right: 30px;
+        font-size: larger;
+       
+    }
+    .email a{
+        margin-top: 550px;
+        margin-left: -210px;
+    }
+    .navbar a:hover{
+        color: yellow;
+
+    }
+    .navbar a:active{
+        color: yellow;
+    }
+.AboutMe{
+        width: 1500px;
+        height: 60px;
+        background-color: black;
+        color: white;
+        padding-top:30px;
+        margin-left: 10px;
+}
+.AboutMe h1{
+    font-size: 30px;
+}
+.h1,ul,li{
+     display: inline;
+     color: white;
+     text-decoration: none;
+}
+.AboutMe li a{
+    font-size: larger;
+    color: orangered;
+    text-decoration: none;
+}
+.AboutMe a:active{
+    color: yellow;
+}
+.AboutMe a:hover{
+    color: yellow;
+}
+.BACKGROUND h4{
+     font-size: larger;
+     margin-top:-10px;
+}
+.BACKGROUND hr{
+    size: 100px;
+    width:600px;
+    margin-left: 30px;
+}
+.EDUCATION h4{
+    padding-top: 1px;
+    margin-top:10px;
+    font-size: larger;
+}
+.EDUCATION{
+    padding-top: 1px;
+    margin-left: 10px;
+}
+.EDUCATION p{
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-top: -40px;
+    padding-bottom:10px;
+}
+.BACKGROUND p{
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-top: -40px;
+    padding-bottom:10px;
+}
+.EDUCATION hr{
+    size: 100px;
+    width:600px;
+    margin-left: 30px;
+}
+.Interests p{ 
+    padding-top: -10px;
+    margin-left: 10px;
+    margin-top: -40px;
+    padding-bottom:10px;
+}
+.Interests h4{
+    padding-top: -100px;
+    margin-top:-150px;
+    font-size: larger;
+}
+.Interests{
+padding-top: 1px;
+margin-left: 10px;
+}
+.SKILL {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+}
+.SKILL h1{
+    font-size: 30px;
+}
+.PYTHON{
+    background-color: white;
+    color: black;
+}
+.PYTHON  img {
+    margin-left: 300px;
+    margin-top: 30px;
+    padding: 30px;
+  
+}
+.PYTHON h1{
+    margin-left: -190px;
+}
+.HTML p{
+    margin-left:-10px ;
+}
+.HTML img {
+    margin-left: 800px;
+    margin-top: -390px;
+    padding-top: -40px;
+  
+}
+.HTML h1{
+    margin-left: -190px;
+}
+.HTML p{
+    margin-left:680px ;
+}
+.CSS{
+    background-color: white;
+    color: black;
+}
+.CSS  img {
+    margin-left: 100px;
+    margin-top: 30px;
+    padding-bottom: 40px;
+  
+}
+.CSS h1{
+    margin-left: -190px;
+    margin-bottom: -10px;
+
+}
+.technical h1{
+    font-size: 30px;
+   margin-left: 500px;
+   padding: 30px;
+}
+.JAVASCRIPT{
+    margin-left:-10px ;
+}
+.JAVASCRIPT img {
+    margin-left: 750px;
+    margin-top: -390px;
+    padding-top: -40px;
+    padding-bottom: 40px;
+  
+}
+.JAVASCRIPT h1{
+    margin-left: -199px;
+    padding-left: -180px;
+}
+.JAVASCRIPT p{
+    margin-left:680px ;
+}
+.JAVA{
+    background-color: white;
+    color: black;
+}
+.JAVA  img {
+    margin-left: 130px;
+    margin-top: 30px;
+    padding-top: -10PX;
+    padding-bottom: 40px;
+  
+}
+.JAVA h1{
+    margin-left: -190px;
+    margin-top:50px;
+    padding: 10px;
+}
+.MYSQL{
+    margin-left:-10px ;
+}
+.MYSQL img {
+    margin-left: 800px;
+    margin-top: -390px;
+    padding-top: -40px;
+  
+}
+.MYSQL h1{
+    margin-left: -190px;
+    margin-top:50px;
+    padding: 10px;
+}
+.MYSQL p{
+    margin-left:680px ;
+}
+.SOFTSKILLS li {
+    color: black;
+    display: flex;
+    padding: 30px;
+    font-style: italic;
+    pointer-events: fill;
+    
+}
+.MYPORTFOLIO {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+}
+.MYPORTFOLIO h1{
+    font-size: 30px;
+}
+.SOFTSKILLS h1{
+    font-size: 30px;
+    font-size: 30px;
+    margin-left: 500px;
+}
+.contact {
+    background-color: black;
+    color: white;
+    padding: 20px;
+   }
+.contact h1{
+    font-size:30px;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+form{
+    background: white;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+    padding: 2vh 4vw;
+}
+form h1{
+    color: #555;
+    margin-bottom:  20px;
+    font-weight: 800;
+    margin-top:10px;
+    font-size: 30px;
+    margin-left: 150px;
+}
+form input ,form textarea{
+    border: 0;
+    margin: 10px 0;
+    padding: 19px ;
+    outline: none;
+    background: #f5f5f5;
+    font-size:16px ;
+}
+form button{
+    padding: 15px;
+    background: sienna;
+    color: white;
+    font-size: 16px;
+    border: 0;
+    outline: none;
+    cursor:pointer;
+    width: 150px;
+    margin:20px auto 0 ;
+    border-radius: 10px;
+
+
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header nav {
+    margin-top: 10px;
+}
+
+header nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.portfolio  {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+}
+
+.portfolio  h2 {
+    margin-top: 0;
+}
+
+.demo-link, .repo-link {
+    display: inline-block;
+    margin-right: 10px;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.demo-link:hover, .repo-link:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.portfolio a{
+    font-size: larger;
+    color: orangered;
+    text-decoration: none;
+}
+.portfolio a:active{
+    color: yellow;
+}
+.portfolio a:hover{
+    color: yellow;
+}
+
+
+
